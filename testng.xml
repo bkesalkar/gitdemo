@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel = "tests">
+<listeners>
+<listener class-name= "com.page.Listeners"/>
+</listeners>
+  <test thread-count="5" name="Validateing title">
+    <classes>
+      <class name="com.page.validateTitle"/>
+      </classes>
+      </test>
+      <test name="Validate home page">
+      <classes>
+      <class name="com.page.HomePage"/>
+    </classes>
+  </test> 
+   <test name="Validate AddTo cart items">
+      <classes>
+      <class name="com.page.ValidateAddtocartitems"/>
+    </classes>
+  </test> 
+  <!-- Test -->
+</suite> <!-- Suite -->

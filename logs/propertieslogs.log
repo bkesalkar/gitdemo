@@ -1,0 +1,12 @@
+[INFO ] 2021-06-10 15:57:45.054 [TestNG-tests-3] ValidateAddtocartitems - diver is initialized
+[INFO ] 2021-06-10 15:57:50.572 [TestNG-tests-3] ValidateAddtocartitems - Navigate to home page
+[INFO ] 2021-06-10 15:58:00.337 [TestNG-tests-3] ValidateAddtocartitems - Successfully add item in cart
+[ERROR] 2021-06-10 15:58:00.337 [TestNG-tests-3] ValidateAddtocartitems - Error.............
+[INFO ] 2021-06-10 16:03:16.161 [TestNG-tests-3] ValidateAddtocartitems - diver is initialized
+[INFO ] 2021-06-10 16:03:19.291 [TestNG-tests-3] ValidateAddtocartitems - Navigate to home page
+[INFO ] 2021-06-10 16:03:27.941 [TestNG-tests-3] ValidateAddtocartitems - Successfully add item in cart
+[ERROR] 2021-06-10 16:03:27.946 [TestNG-tests-3] ValidateAddtocartitems - Error.............
+[INFO ] 2021-06-10 16:39:49.124 [TestNG-tests-3] ValidateAddtocartitems - diver is initialized
+[INFO ] 2021-06-10 16:39:52.207 [TestNG-tests-3] ValidateAddtocartitems - Navigate to home page
+[INFO ] 2021-06-10 16:40:01.128 [TestNG-tests-3] ValidateAddtocartitems - Successfully add item in cart
+[ERROR] 2021-06-10 16:40:01.128 [TestNG-tests-3] ValidateAddtocartitems - Error.............
